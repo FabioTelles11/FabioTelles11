@@ -31,11 +31,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center" lang="pt-br">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioTelles11&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioTelles11&show_icons=true&theme=tokyonight&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioTelles11&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioTelles11&layout=compact&theme=tokyonight&locale=pt-br"/>
 
 </p>
 
@@ -43,12 +43,11 @@
 
 ## 🔥 Sequência de commits
 
-<p align="center" lang="pt-br">
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioTelles11&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioTelles11&theme=tokyonight&locale=pt_BR"/>
 
 </p>
-
 ---
 
 ## 🐍 Contribuições
