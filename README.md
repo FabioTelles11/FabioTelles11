@@ -31,7 +31,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="center" lang="pt-br">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioTelles11&show_icons=true&theme=tokyonight"/>
 
@@ -43,7 +43,7 @@
 
 ## 🔥 Sequência de commits
 
-<p align="center">
+<p align="center" lang="pt-br">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioTelles11&theme=tokyonight"/>
 
