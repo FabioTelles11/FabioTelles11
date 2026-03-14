@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Fabio</h1>
 
-<!--
-**FabioTelles11/FabioTelles11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Estudante de tecnologia | 🚀 Aprendendo programação
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+GitHub!;Estudante+de+Tecnologia;Sempre+aprendendo+algo+novo🚀">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de tecnologia  
+- 💻 Interessado em programação  
+- 🚀 Sempre aprendendo coisas novas  
+- 🌎 Brasil  
+
+---
+
+## 🚀 Tecnologias que estou aprendendo
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github"/>
+
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Sequência de commits
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://github.com/FabioTelles11">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+⭐ Obrigado por visitar meu perfil!
